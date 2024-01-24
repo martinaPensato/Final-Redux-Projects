@@ -1,0 +1,29 @@
+body {
+  background-image: url('assets/img/rainbow.webp'); 
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100%; 
+  margin: 0; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  
+}
+
+.white-text {
+  color: white;
+  font-weight: 900;
+}
